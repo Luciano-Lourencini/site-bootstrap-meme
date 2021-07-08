@@ -1,0 +1,46 @@
+body
+{
+    font: 20px arial, sans-serif;
+}
+
+.navbar
+{
+    background-color: grey;
+}
+
+.quemsomos
+{
+    background-color: yellow;
+    color: green;
+}
+
+.padding
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros
+{
+    background-color: rgb(73, 73, 252);
+    color: white;
+}
+
+.servicos
+{
+    background-color: green;
+    color: yellow;
+}
+
+.escrita
+{
+    padding-top: 50px;
+    font-size: 1cm;
+}
+
+footer
+{
+    background-image: url(https://img10.orkut.br.com/community/49c37f1222bef330b9c66f49f4960774.jpg);
+    font-size: 50px;
+    color:rgb(216, 13, 30)
+}
